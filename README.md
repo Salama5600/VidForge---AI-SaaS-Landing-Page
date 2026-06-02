@@ -1,2 +1,30 @@
-# VidForge---AI-SaaS-Landing-Page
-A modern AI SaaS landing page built with React, Vite, Tailwind CSS, and Framer Motion. Features a premium UI, responsive design, smooth animations, pricing section, testimonials, FAQ, and conversion-focused user experience.
+# ReelsAI
+
+A premium AI SaaS landing page designed for AI-powered video creation platforms.
+
+## Features
+
+- Modern SaaS Design
+- Fully Responsive Layout
+- Dark Mode UI
+- Smooth Animations
+- Pricing Section
+- Testimonials
+- FAQ Accordion
+- SEO-Friendly Structure
+- Reusable Components
+- Fast Performance
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Framer Motion
+
+## Installation
+
+```bash
+npm install
+npm run dev
