@@ -1,5 +1,4 @@
 {
-  "homepage": "https://salama5600.github.io/VidForge---AI-SaaS-Landing-Page/",
   "name": "ai-video-saas-landing",
   "private": true,
   "version": "1.0.0",
@@ -8,8 +7,6 @@
     "dev": "vite",
     "build": "tsc -b && vite build && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
     "preview": "vite preview"
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "framer-motion": "^11.15.0",
