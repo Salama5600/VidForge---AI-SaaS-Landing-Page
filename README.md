@@ -15,7 +15,7 @@ A modern AI SaaS landing page built with React, Vite, Tailwind CSS, and Framer M
 
 Local dev: `npm install` then `npm run dev`. Production build: `npm run build` (uses the repo base path for GitHub Pages).
 =======
-# ReelsAI
+# VidForge
 
 A premium AI SaaS landing page designed for AI-powered video creation platforms.
 
